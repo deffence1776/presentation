@@ -15,7 +15,8 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 # 自己紹介
 - 松下正嗣
 	- Javaプログラマー。クレディセゾン社で、ソフトウェア開発内製化に取り組んでいます。
-	- 最初の仕事は研修講師->現場へ。大学/大学院と文系でした。
+	- 最初の仕事は研修講師->現場へ。SI系のアーキテクト。大学/大学院と文系でした。
+	- twitter: @masatsugumatsus
 ---
 
 # チームの紹介
@@ -46,7 +47,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 # 今日話すこと
 - アプリケーションアーキテクチャの移行
-- システムアーキテクチャ(AWS/ESKへの移行)
+- システムアーキテクチャ(AWS/EKSへの移行)
 - 文化とプロセスの移行
 
 # あまり話さないこと
